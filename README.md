@@ -1,5 +1,7 @@
 # Picklebet-Test
-This file, PB_Test_v1.1.html, is a basic betting website, which can be opened in a browser. 
+This file, PB_Test_v1.1.html, is a basic betting website, which can be:
+* Downloaded from: https://github.com/rm-pb/Picklebet-QA-Test/blob/main/Picklebet_Test_v1.1.html
+* And opened in a browser
 
 Below are the specifications for the site, and your task is to test the site and prepare bug reports for any issues found.
 
